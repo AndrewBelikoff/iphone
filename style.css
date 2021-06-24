@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.up {
+    z-index: 255;
+    opacity: 1;
+    position: fixed;
+    top: 0;
+    padding: 3px;
+    width: 100%;
+    background-color: lightgray;
+}
+.context {
+    font-family: Helvetica, Arial, sans-serif; 
+    font-size: 0.8em;
+    font-weight: 600;
+    display: grid;
+    width: 100%;
+    grid-template-columns: 33% 33% 33%
+}
+.up_left {
+   text-align: left; 
+}  
+.up_midl {
+   text-align: center;
+}  
+.up_right {
+   text-align: right;
+} 
+.wrapper {
+    width: 100%;
+}
+.appstore {
+    width: 100%;
+}
+.we-star-rating-stars-outlines {
+    width: 50px;
+    background-position: 0 9.5px;
+    line-height: 9.5px;
+    z-index: 1;
+}
+.we-star-rating-stars, .we-star-rating-stars-outlines {
+    display: inline-block;
+    height: 9.5px;
+    background-image: url(images/stars-lg-bc4f4bfdd931e007ab096dd1c209c689.svg);
+    background-size: 10px 19px;
+}
+.we-app-screenshots__nav__chevron::after {
+    padding-left: .3em;
+    top: -3px;
+}
+.icon-chevronup::after, .icon-chevronup::before {
+    content: "q";
+}
+.ic {
+    position: absolute;
+    top: 50%;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: right;
+    color: #0070c9;
+    transform: translateY(-50%);
+    right: 0;
+    z-index: 1;
+}
+.icon-external::after, .icon-external::before {
+    content: "↗";
+}
+.down {
+    z-index: 255;
+    opacity: 1;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    background-color: lightgray;
+    padding: 10px 0 3px 0;
+}
+.pic {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    filter: invert(53%)
+            sepia(0%) 
+            saturate(0%) 
+            hue-rotate(112deg) 
+            brightness(100%) 
+            contrast(95%);
+    border-radius: 5px;
+    font-family: Helvetica, Arial, sans-serif; 
+    font-size: 0.6em;
+    font-weight: 600;
+    width: 20%;
+    text-align: center;
+}
+.pic:active {
+    filter: invert(8%) 
+            sepia(99%)
+            saturate(7451%) 
+            hue-rotate(248deg) 
+            brightness(97%) 
+            contrast(145%);
+}
+
+@font-face {
+    font-family: Helvetica, Arial, sans-serif; 
+    src: url(fonts/9202.otf);
+}

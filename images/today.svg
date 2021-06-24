@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="50mm" height="50mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5000 5000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil1 {fill:black}
+    .fil0 {fill:#2B2A29}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1820838094352">
+   <path class="fil0 str0" d="M378.48 486.9l0 4038.46c0,224.21 256.57,480.77 480.78,480.77l3269.22 0c224.21,0 480.78,-256.56 480.78,-480.77l0 -4038.46c0,-224.21 -256.57,-480.77 -480.78,-480.77l-3269.22 0c-224.21,0 -480.78,256.56 -480.78,480.77zm283.47 0l0 4038.46c0,66.2 131.1,197.3 197.31,197.3l3269.22 0c66.21,0 197.31,-131.1 197.31,-197.3l0 -4038.46c0,-66.2 -131.1,-197.3 -197.31,-197.3l-3269.22 0c-66.21,0 -197.31,131.1 -197.31,197.3z"/>
+   <polygon class="fil1 str0" points="1147.74,4309.02 3840.06,4309.02 3840.06,1809.02 1147.74,1809.02 "/>
+   <polygon class="fil1" points="1123.67,1184.01 2662.15,1184.01 2662.15,799.4 1123.67,799.4 "/>
+  </g>
+ </g>
+</svg>
